@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Trisit Ganguly</h1>
 <h3 align="center">A passionate Data Science Enthusiast and AI/ML engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src = https://github.com/rudrabarad/Gifs>
+<img align="right" alt="coding" width="400" src = "https://github.com/rudrabarad/Gifs">
 
 - 💬 Ask me about **vue, TensorFlow, OpenCV, pytorch**
 
