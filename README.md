@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/270436ea-c3e3-4a11-9691-7a2c7e21bdf3)![logo]
+![logo](https://github.com/gangulytrisit/gangulytrisit/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Trisit Ganguly</h1>
 <h3 align="center">A passionate Data Science Enthusiast and AI/ML engineer from India</h3>
 
