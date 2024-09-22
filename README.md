@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src = https://medium.com/@gouravjamwal007/from-circuit-boards-to-code-my-unexpected-journey-into-ios-development-31648fab4cbd>
 
-- 💬 Ask me about **vue, TensorFlow, OpenCV, p**
+- 💬 Ask me about **vue, TensorFlow, OpenCV, pytorch**
 
 - 📫 How to reach me **gangulytrisit@gmail.com**
 
