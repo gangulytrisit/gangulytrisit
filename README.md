@@ -1,9 +1,8 @@
-![logo](https://github.com/gangulytrisit/gangulytrisit/blob/main/github-header-image.png)
+![image](https://github.com/user-attachments/assets/270436ea-c3e3-4a11-9691-7a2c7e21bdf3)![logo](https://github.com/gangulytrisit/gangulytrisit/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Trisit Ganguly</h1>
 <h3 align="center">A passionate Data Science Enthusiast and AI/ML engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src = "![Uploading image.png…]()
-">
+<img align="right" alt="coding" width="400" src = "https://github.com/rudrabarad/Gifs">
 
 - 💬 Ask me about **vue, TensorFlow, OpenCV, pytorch**
 
